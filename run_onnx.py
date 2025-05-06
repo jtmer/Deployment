@@ -1,7 +1,6 @@
 import onnxruntime as ort
 import numpy as np
 import time
-import torch
 
 import os
 import psutil
